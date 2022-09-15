@@ -1,0 +1,38 @@
+{"sets": {"portails": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Portails","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"showcasestandalone.markerset": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Commerces","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"worldguard.markerset": {"hide": true,"circles": {}
+,"areas": {"plaines_fort_boyard": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [157.00,157.00,228.00,228.00]
+,"weight": 2,"z": [119.00,262.00,262.00,119.00]
+,"ybottom": 64.00,"label": "Fort_boyard","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>Fort_boyard<\/div><\/div>"}
+,"plaines_general": {"fillcolor": "#FF0000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [-10000.00,-10000.00,10001.00,10001.00]
+,"weight": 2,"z": [-10000.00,10001.00,10001.00,-10000.00]
+,"ybottom": 64.00,"label": "General","opacity": 0.50,"fillopacity": 0.20,"desc": "<div><div>General<\/div><\/div>"}
+}
+,"label": "R\u00E9gions","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"transports-aeriens": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Transports A\u00E9riens","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"markers": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Rep\u00E8res","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"simpletowns.markerset": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Villes","markers": {}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1709808890701}
